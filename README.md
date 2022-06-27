@@ -8,6 +8,7 @@ This HTML webpage uses JavaScript to reproduce the eyes drawn in the Halloween s
 The originals use a small microprocessor to draw animated eyes to two small LCD panels. In this version both eyes are drawn to a screen - either PC webpage (Chrome, Firefox etc...) or a mobile phone using their browser.
 It includes code to prevent the mobile phone from sleeping so it can be left alone all night.
 
+Online version: http://untamed.zone/HalloweenEyes/                    
 Based on code from: https://learn.adafruit.com/animated-electronic-eyes/software           
 
 Options:             
